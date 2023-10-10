@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/pref"/>
+    <qresource prefix="/">
+        <file>file/level_0.txt</file>
+        <file>file/level_1.txt</file>
+        <file>file/level_2.txt</file>
+        <file>file/level_3.txt</file>
+        <file>file/level_4.txt</file>
+    </qresource>
+    <qresource prefix="/file"/>
+    <qresource prefix="/files"/>
+</RCC>

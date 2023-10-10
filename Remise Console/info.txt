@@ -1,0 +1,5 @@
+matricule du groupe: 
+54383 - 54309
+
+choix de la structure du projet: 
+projets QtCreator avec un fichier CMakeList.txt 
